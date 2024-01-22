@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Tucson, AZ 85719</p>
+    <p>Tucson, AZ</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
